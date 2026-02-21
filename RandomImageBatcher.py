@@ -26,7 +26,7 @@ class RandomImageBatcher:
     OUTPUT_IS_LIST = (True, True, False)
     INPUT_IS_LIST = True
     FUNCTION = "get_random_batch"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     def is_openpose(self, img_array):
         threshold = 30

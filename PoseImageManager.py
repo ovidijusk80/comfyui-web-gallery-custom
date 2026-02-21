@@ -25,7 +25,7 @@ class PoseImageManager:
     RETURN_NAMES = ("example_images", "example_paths", "openpose_images", "openpose_paths", "result_text")
     OUTPUT_IS_LIST = (True, True, True, True, False)
     FUNCTION = "process_images"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     def is_openpose(self, img_array):
         # OpenPose images typically have a black background and colored limbs

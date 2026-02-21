@@ -34,7 +34,7 @@ class RandomCheckpointLoader:
     RETURN_NAMES = ("ckpt_name",)
     OUTPUT_IS_LIST = (False,)
     FUNCTION = "get_checkpoints"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     def get_checkpoints(self, folder, seed, exclude_names="", force_checkpoint="", unique_id=None):
         # Check force_checkpoint first

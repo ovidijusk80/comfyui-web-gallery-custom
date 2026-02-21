@@ -15,7 +15,7 @@ class MediaTypePathGenerator:
     RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("path_prefix",)
     FUNCTION = "generate_path"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     def generate_path(self, media_type):
         current_date = datetime.datetime.now().strftime("%Y-%m-%d")

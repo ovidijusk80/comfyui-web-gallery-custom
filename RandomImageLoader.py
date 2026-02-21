@@ -26,7 +26,7 @@ class RandomImageLoader:
     RETURN_NAMES = ("images", "image_paths", "total_files_count")
     OUTPUT_IS_LIST = (True, True, False)
     FUNCTION = "load_random_images"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     def is_openpose(self, img_array):
         # OpenPose images typically have a black background and colored limbs

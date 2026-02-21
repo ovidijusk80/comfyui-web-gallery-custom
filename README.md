@@ -36,7 +36,7 @@ Allows you to select images directly from a path.
 - **Features**: Shows previews, handles masks, and allows excluding specific files.
 - **Outputs**: Selected Image, Mask, and File Path.
 
-### 🛠️ Huko Tools
+### 🛠️ Web Gallery Tools
 
 #### **Recursive Image Loader**
 Scans a directory (and optionally subdirectories) to load image paths.

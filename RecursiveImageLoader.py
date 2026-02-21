@@ -19,7 +19,7 @@ class RecursiveImageLoader:
     RETURN_NAMES = ("image_paths", "files_count")
     OUTPUT_IS_LIST = (True, False)
     FUNCTION = "get_image_paths"
-    CATEGORY = "Huko Tools"
+    CATEGORY = "Web Gallery Tools"
 
     @classmethod
     def IS_CHANGED(cls, **kwargs):
