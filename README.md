@@ -21,7 +21,7 @@ This project was born out of a specific need for better **OpenPose** workflow ma
     ```
 2.  Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/comfyui-web-gallery-custom.git
+    git clone https://github.com/ovidijusk80/comfyui-web-gallery-custom.git
     ```
 3.  Restart ComfyUI.
 
